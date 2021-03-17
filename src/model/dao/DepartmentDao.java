@@ -4,7 +4,6 @@ import java.util.List;
 
 
 import model.entities.Department;
-import model.entities.Seller;
 
 
 public interface DepartmentDao {
